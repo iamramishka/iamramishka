@@ -1,4 +1,16 @@
 <h1 align="center">Hi 👋, I'm Ramishka Madhushan</h1>
+
+
+- 🔭 I’m currently studying at **Sabaragamuwa University of Sri Lanka**  
+- 👨‍💻 All of my projects are available at [onlinegura.com](https://onlinegura.com)  
+- 📝 I regularly write articles on [Medium](https://iamramishka.medium.com/)  
+- 💬 Ask me about **Educational topics**  
+- 📫 How to reach me: **iamramishka@gmail.com**  
+- 📄 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/iamramishka/)
+
+
+
+
 <p align="center">
   <img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" alt="Ramishka" />
 </p>
@@ -9,16 +21,6 @@
 
 <p align="left"> <a href="https://twitter.com/iamramishka" target="blank"><img src="https://img.shields.io/twitter/follow/iamramishka?logo=twitter&style=for-the-badge" alt="Twitter" /></a> </p>
 
-- 🔭 I’m currently studying at **Sabaragamuwa University of Sri Lanka**  
-- 👨‍💻 All of my projects are available at [onlinegura.com](https://onlinegura.com)  
-- 📝 I regularly write articles on [Medium](https://iamramishka.medium.com/)  
-- 💬 Ask me about **Educational topics**  
-- 📫 How to reach me: **iamramishka@gmail.com**  
-- 📄 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/iamramishka/)
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
