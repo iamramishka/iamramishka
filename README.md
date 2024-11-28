@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ramishka Madhushan</h1>
+<img herf="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e"></img>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamramishka&label=Profile%20views&color=0e75b6&style=flat" alt="iamramishka" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamramishka" alt="iamramishka" /></a> </p>
